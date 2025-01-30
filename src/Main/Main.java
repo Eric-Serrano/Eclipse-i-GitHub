@@ -6,7 +6,8 @@ public class Main {
 		
 		System.out.println("Hola alumnos de Git");
 		
-		String nombre="Eric Serrano";
+		System.out.println("1a modificació Git");
+
 	}
 
 }
